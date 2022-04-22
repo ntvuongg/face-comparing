@@ -1,0 +1,8 @@
+numpy
+keras
+spicy
+pillow
+torch
+tensorflow
+facenet-pytorch
+streamlit
