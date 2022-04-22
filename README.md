@@ -44,7 +44,7 @@ conda activate [your_venv_name]
 ### **Cloning repository**
 
 ```
-git clone https://github.com/ntvuongg/vnese-id-extractor.git
+git clone https://github.com/ntvuongg/face-comparing.git
 ```
 
 ### **Installing requirements**
